@@ -16,11 +16,11 @@ I also hold degrees from <a href="https://www.gsm.pku.edu.cn/" target="_blank" s
   * This paper analyzes the economic and security value of <a href="https://en.wikipedia.org/wiki/Bug_bounty_program" target="_blank" style="color:blue">bug bounty programs</a>, a burgeoning security crowdsourcing practice where firms like <a href="https://bughunters.google.com/about/rules/6625378258649088/google-and-alphabet-vulnerability-reward-program-vrp-rules" target="_blank" style="color:blue">Google</a> and <a href="https://www.facebook.com/whitehat" target="_blank" style="color:blue">Facebook</a> publicly promise to reward people for reporting bugs or security vulnerabilities in their systems that can potentially be exploited (such as vulnerabilities in Google’s or Facebook’s websites).
 
 
-  ![screenshot from bbp](https://github.com/jerrylikerice/ap.github.io/blob/master/paper1.png?raw=true "The impact of bug bounty program on economic payoff and security")
+  ![screenshot from bbp](https://github.com/jerrylikerice/jerrylikerice.github.io/blob/master/paper1.png?raw=true "The impact of bug bounty program on economic payoff and security")
 * <b>Strategic Interaction Between Crowd and In-house Contributions: Evidence from Internet Bug Bounty Program</b> (empirical, with Kai-Lung Hui) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074182" target="_blank" style="color:blue">SSRN</a>
   * This paper uncover unintended consequences of using crowdsourcing, using Internet bug bounty program as a quasi-natural experiment. 
 
-  ![screenshot from bbp2](https://github.com/jerrylikerice/ap.github.io/blob/master/IBB.png?raw=true "The impact of IBB on Python maintainers' contributions")
+  ![screenshot from bbp2](https://github.com/jerrylikerice/jerrylikerice.github.io/blob/master/IBB.png?raw=true "The impact of IBB on Python maintainers' contributions")
 
 <br/>
 
