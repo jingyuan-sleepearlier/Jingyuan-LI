@@ -20,7 +20,7 @@ I also hold degrees from <a href="https://www.gsm.pku.edu.cn/" target="_blank" s
 * <b>Strategic Interaction Between Crowd and In-house Contributions: Evidence from Internet Bug Bounty Program</b> (empirical, with Kai-Lung Hui)
   * This paper uncover unintended consequences of using crowdsourcing, using Internet bug bounty program as a quasi-natural experiment.
 
-  ![screenshot from bbp2](https://github.com/jerrylikerice/ap.github.io/blob/master/paper2.png?raw=true "The impact of IBB on Python maintainers' contributions")
+  ![screenshot from bbp2](https://github.com/jerrylikerice/ap.github.io/blob/master/IBB.png?raw=true "The impact of IBB on Python maintainers' contributions")
 
 <br/>
 
