@@ -7,19 +7,18 @@ Hi, I am a PhD candidate in Information Systems at the <a href="https://www.ust.
 
 My main research area is cybersecurity economics and policies. I address questions like how to improve cybersecurity with crowdsourcing? how to address the security risks brought by AI technologies? how government policies affect cybersecurity? 
 
-I also hold degrees from <a href="https://www.gsm.pku.edu.cn/" style="color:blue">Guanghua School of Management at Peking University</a> and <a href="https://www.hust.edu.cn/" style="color:blue">Huazhong University of Science and Technology</a>.
+I also hold degrees from <a href="https://www.gsm.pku.edu.cn/" style="color:blue">Peking University (Guanghua School of Management)</a> and <a href="https://www.hust.edu.cn/" style="color:blue">Huazhong University of Science and Technology</a>.
 
 <br/>
 
 # Job Market Papers
-* Sleeping with the Enemy: An Economic and Security Analysis of Bug Bounty Programs (economic models, with <a href="http://klhui.people.ust.hk/">Kai-Lung Hui</a>)
-  * This paper analyzes the economic and security value of bug bounty programs.
+* <bf>Sleeping with the Enemy: An Economic and Security Analysis of Bug Bounty Programs< (economic models, with <a href="http://klhui.people.ust.hk/" style="color:blue">Kai-Lung Hui</a>)
+  * This paper analyzes the economic and security value of bug bounty programs, a burgeoning security crowdsourcing practice where firms like Google and Facebook publicly promise to reward people for reporting bugs or security vulnerabilities in their systems that can potentially be exploited (such as vulnerabilities in Google’s or Facebook’s websites).
 * Strategic Interaction Between Crowd and In-house Contributions: Evidence from Internet Bug Bounty Program (empirical, with Kai-Lung Hui)
   * This paper uncover unintended consequences of using crowdsourcing, using Internet bug bounty program as a quasi-natural experiment.
 
 <br/>
 
-# Other Research
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Other Publications
+* "The Economics of Hacking." Oxford Research Encyclopedia of Business and Management, 2020. (with Kai-Lung Hui)
+*  "From Innovation to Operation: The Revelation of Cisco" (Chinese title: 思科实访录: 从创新到运营. the <a href="https://www.gsm.pku.edu.cn/cnold/info/1195/15815.htm" style="color:blue">first</a>, <a href="https://www.pup.cn/bookDetail?name=%25E6%2580%259D%25E7%25A7%2591%25E5%25AE%259E%25E8%25AE%25BF%25E5%25BD%2595%25EF%25BC%259A%25E4%25BB%258E%25E5%2588%259B%25E6%2596%25B0%25E5%2588%25B0%25E8%25BF%2590%25E8%2590%25A5&id=be2b49df185f11e9805800163e0a6607&0.91" style="color:blue">second</a> Edition). Peking University Press, 2019 .
