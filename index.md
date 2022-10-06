@@ -5,7 +5,7 @@ layout: about
 # About Me
 Hi, I am a PhD candidate in Information Systems at the <a href="https://www.ust.hk/" target="_blank" style="color:blue">Hong Kong University of Science and Technology</a>. 
 
-My main research area is cybersecurity economics and policies. I address questions like how to improve cybersecurity with crowdsourcing? how to address the security risks brought by AI technologies? how government policies affect cybersecurity? 
+My main research area is cybersecurity economics and policies. I address questions like how to improve cybersecurity with crowdsourcing? How to address the security risks brought by AI technologies? How government policies affect cybersecurity? 
 
 I also hold degrees from <a href="https://www.gsm.pku.edu.cn/" target="_blank" style="color:blue">Peking University (Guanghua School of Management)</a> and <a href="https://www.hust.edu.cn/" style="color:blue">Huazhong University of Science and Technology</a>.
 
