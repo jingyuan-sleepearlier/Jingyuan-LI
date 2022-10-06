@@ -13,7 +13,7 @@ I also hold degrees from <a href="https://www.gsm.pku.edu.cn/" target="_blank" s
 
 # Job Market Papers
 * <b>Sleeping with the Enemy: An Economic and Security Analysis of Bug Bounty Programs</b> (economic modelling, with <a href="http://klhui.people.ust.hk/" target="_blank" style="color:blue">Kai-Lung Hui</a>)
-  * This paper analyzes the economic and security value of bug bounty programs, a burgeoning security crowdsourcing practice where firms like Google and Facebook publicly promise to reward people for reporting bugs or security vulnerabilities in their systems that can potentially be exploited (such as vulnerabilities in Google’s or Facebook’s websites).
+  * This paper analyzes the economic and security value of <a href="https://en.wikipedia.org/wiki/Bug_bounty_program" target="_blank" style="color:blue">bug bounty programs</a>, a burgeoning security crowdsourcing practice where firms like <a href="https://bughunters.google.com/about/rules/6625378258649088/google-and-alphabet-vulnerability-reward-program-vrp-rules" target="_blank" style="color:blue">Google</a> and <a href="https://www.facebook.com/whitehat" target="_blank" style="color:blue">Facebook</a> publicly promise to reward people for reporting bugs or security vulnerabilities in their systems that can potentially be exploited (such as vulnerabilities in Google’s or Facebook’s websites).
 * <b>Strategic Interaction Between Crowd and In-house Contributions: Evidence from Internet Bug Bounty Program</b> (empirical, with Kai-Lung Hui)
   * This paper uncover unintended consequences of using crowdsourcing, using Internet bug bounty program as a quasi-natural experiment.
 
