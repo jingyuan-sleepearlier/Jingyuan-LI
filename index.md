@@ -3,20 +3,15 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Hi there, I am a PhD candidate in Information Systems at the Hong Kong University of Science and Technology. My main research area is cybersecurity economics and policies. I address questions like how to improve cybersecurity with crowdsourcing? how to address the security risks brought by AI technologies? how government policies affect cybersecurity? He holds degrees from Guanghua School of Management at Peking University and Huazhong University of Science and Technology.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Job Market Papers
+* Sleeping with the Enemy: An Economic and Security Analysis of Bug Bounty Programs (economic models)
+  * This paper analyzes the economic and security value of bug bounty programs.
+* Strategic Interaction Between Crowd and In-house Contributions: Evidence from Internet Bug Bounty Program (empirical)
+  * This paper uncover unintended consequences of using crowdsourcing, using Internet bug bounty program as a quasi-natural experiment.
 
 <br/>
 
