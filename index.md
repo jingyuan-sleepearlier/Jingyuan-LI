@@ -25,5 +25,5 @@ I also hold degrees from <a href="https://en.gsm.pku.edu.cn/index.htm" target="_
 <br/>
 
 # Other Publications
-* <b>"The Economics of Hacking."</b> Oxford Research Encyclopedia of Business and Management, 2020. (with Kai-Lung Hui)
+* <b>"<a href="https://doi.org/10.1093/acrefore/9780190224851.013.266" target="_blank" style="color:blue">The Economics of Hacking.</a>"</b> Oxford Research Encyclopedia of Business and Management, 2020. (with Kai-Lung Hui) 
 * <b>"From Innovation to Operation: The Revelation of Cisco"</b> (Chinese title: 思科实访录: 从创新到运营. <a href="https://www.gsm.pku.edu.cn/cnold/info/1195/15815.htm" target="_blank" style="color:blue">First</a>, <a href="https://yd.qq.com/web/bookDetail/0b532c907199720f0b55737" target="_blank" style="color:blue">second</a> Edition). Peking University Press, 2019. (with <a href="http://scholar.pku.edu.cn/xydong/home" target="_blank" style="color:blue">Xiaoying Dong</a>, <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jjxxglx1/fjs_a/38fe2138cfe949ce94dd5cbeefd79551.htm" target="_blank" style="color:blue">Yan Yu</a>)
