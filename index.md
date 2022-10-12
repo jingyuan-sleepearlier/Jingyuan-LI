@@ -18,7 +18,7 @@ I also hold degrees from <a href="https://en.gsm.pku.edu.cn/index.htm" target="_
 
   ![screenshot from bbp](https://github.com/jerrylikerice/jerrylikerice.github.io/blob/master/paper1.png?raw=true "The impact of bug bounty program on economic payoff and security")
 * <b>Strategic Interaction Between Crowd and In-house Contributions: Evidence from Internet Bug Bounty Program</b> (empirical, with Kai-Lung Hui) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074182" target="_blank" style="color:blue">SSRN</a>
-  * This paper uncover unintended consequences of using crowdsourcing, using Internet bug bounty program as a quasi-natural experiment. 
+  * This paper uncovers unintended consequences of adopting crowdsourcing, using Internet bug bounty program as a quasi-natural experiment. 
 
   ![screenshot from bbp2](https://github.com/jerrylikerice/jerrylikerice.github.io/blob/master/IBB.png?raw=true "The impact of IBB on Python maintainers' contributions")
 
