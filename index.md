@@ -3,27 +3,20 @@ layout: about
 ---
 
 # About Me
-Hi, I am a PhD candidate in Information Systems at the <a href="https://www.ust.hk/" target="_blank" style="color:blue">Hong Kong University of Science and Technology</a>. 
+Hi, I am a Ph.D. candidate at <a href="https://mgmt.hkust.edu.hk/" target="_blank" style="color:blue"> the Department of Management, Hong Kong University of Science and Technology</a>. I am on the 2023–2024 management job market and expect to graduate under the supervison of <a href="https://mgmt.hkust.edu.hk/faculty-and-staff/directory/mnjtli" target="_blank" style="color:blue"> Prof. J.T. LI</a> before Aug 2024.
 
-My main research area is cybersecurity economics and policies. I address questions like how to improve cybersecurity with crowdsourcing? How to address the security risks brought by AI technologies? How government policies affect cybersecurity? 
+My research investigates the environmental, social, and governance (ESG) activities of organizations, with a focus on how these activities affect their strategic choices and outcomes. I am currently studying three streams of thought related to this overarching theme: 
+ 1. The consequences of organizations’ and individuals’ social engagements on their business operations or career trajectories;
+ 2. The impact of executive succession planning on firms’ strategic choices;
+ 3. The influence of climate pledges on firms’ carbon footprints.
 
-I also hold degrees from <a href="https://en.gsm.pku.edu.cn/index.htm" target="_blank" style="color:blue">Peking University (Guanghua School of Management)</a> and <a href="http://english.hust.edu.cn/" target="_blank" style="color:blue">Huazhong University of Science and Technology</a>.
-
-<br/>
-
-# Job Market Papers
-* <b>Sleeping with the Enemy: An Economic and Security Analysis of Bug Bounty Programs</b> (economic modelling, with <a href="http://klhui.people.ust.hk/" target="_blank" style="color:blue">Kai-Lung Hui</a>)
-  * This paper analyzes the economic and security value of <a href="https://en.wikipedia.org/wiki/Bug_bounty_program" target="_blank" style="color:blue">bug bounty programs</a>, a burgeoning security crowdsourcing practice where firms like <a href="https://bughunters.google.com/about/rules/6625378258649088/google-and-alphabet-vulnerability-reward-program-vrp-rules" target="_blank" style="color:blue">Google</a> and <a href="https://www.facebook.com/whitehat" target="_blank" style="color:blue">Facebook</a> publicly promise to reward people for reporting bugs or security vulnerabilities in their systems that can potentially be exploited (such as vulnerabilities in Google’s or Facebook’s websites).
-
-
-  ![screenshot from bbp](https://github.com/jerrylikerice/jerrylikerice.github.io/blob/master/paper1.png?raw=true "The impact of bug bounty program on economic payoff and security")
-* <b>Strategic Interaction Between Crowd and In-house Contributions: Evidence from Internet Bug Bounty Program</b> (empirical, with Kai-Lung Hui) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074182" target="_blank" style="color:blue">SSRN</a>
-  * This paper uncovers unintended consequences of adopting crowdsourcing, using Internet bug bounty program as a quasi-natural experiment. 
-
-  ![screenshot from bbp2](https://github.com/jerrylikerice/jerrylikerice.github.io/blob/master/IBB.png?raw=true "The impact of IBB on Python maintainers' contributions")
+I primarily rely on quantitative analysis of large-scale datasets but also use experiments, text analysis, and qualitative data sources, including field interviews to gain deeper insights into the mechanisms at play. I explore these questions across a range of contexts: Chinese brokerage houses’ participation in poverty alleviation, family businesses’ acquisitions, multinational corporations’ carbon footprints, and artists’ careers in the South Korean film industry.
 
 <br/>
 
-# Other Publications
-* <b>"<a href="https://doi.org/10.1093/acrefore/9780190224851.013.266" target="_blank" style="color:blue">The Economics of Hacking.</a>"</b> Oxford Research Encyclopedia of Business and Management, 2020. (with Kai-Lung Hui) 
-* <b>"From Innovation to Operation: The Revelation of Cisco"</b> (Chinese title: 思科实访录: 从创新到运营. <a href="https://www.gsm.pku.edu.cn/cnold/info/1195/15815.htm" target="_blank" style="color:blue">First</a>, <a href="https://yd.qq.com/web/bookDetail/0b532c907199720f0b55737" target="_blank" style="color:blue">second</a> Edition). Peking University Press, 2019. (with <a href="http://scholar.pku.edu.cn/xydong/home" target="_blank" style="color:blue">Xiaoying Dong</a>, <a href="http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jjxxglx1/fjs_a/38fe2138cfe949ce94dd5cbeefd79551.htm" target="_blank" style="color:blue">Yan Yu</a>)
+# Curriculum Vitae
+Please find my CV <a href="https://hkustconnect-my.sharepoint.com/:b:/g/personal/jlieu_connect_ust_hk/EfixOlMuMsVHlJ2nNK6Bt7QBlldsUT7tRX0MTROuc_RYXw?e=cdnzO3" target="_blank" style="color:blue"> here </a>. 
+
+# Job Market Paper
+* <b>Learning by Helping: Evidence from Chinese Brokerages’ Community-based CSR</b> 
+  * Community-based corporate social responsibility (CSR) can bring various benefits to participating firms. My paper investigates how CSR facilitates participating firms’ access to valuable local knowledge through ground-level experiences. I study a sample of Chinese brokerage houses quasi-randomly assigned to help impoverished communities in a pairing assistance program as a part of China’s Targeted Poverty Alleviation policy. I find that brokerages’ community CSR participation increases the accuracy of their forecasts for companies' future earnings in the regions they helped.
