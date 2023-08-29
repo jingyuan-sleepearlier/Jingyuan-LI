@@ -1,15 +1,15 @@
 # Site settings
-title: Jiali Zhou
+title: Jingyuan LI
 baseurl: "/"
-url: "https://jerrylikerice.github.io/"
+url: "https://github.com/jingyuan-sleepearlier/Jingyuan-LI/"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Jiali ZHOU
-  desc: PhD Candidate at HKUST
-  email: jiali.zhou at connect.ust.hk
-  selfie: assets/img/profile.jpg
+  name: Jingyuan LI
+  desc: Ph.D. Candidate at HKUST
+  email: jingyuan.li@connect.ust.hk
+  selfie: assets/img/photo.jpg
 
 # social
 social:
