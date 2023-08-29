@@ -11,7 +11,6 @@ My research investigates the environmental, social, and governance (ESG) activit
  3. The influence of climate pledges on firms’ carbon footprints.
 
 I primarily rely on quantitative analysis of large-scale datasets but also use experiments, text analysis, and qualitative data sources, including field interviews to gain deeper insights into the mechanisms at play. I explore these questions across a range of contexts: Chinese brokerage houses’ participation in poverty alleviation, family businesses’ acquisitions, multinational corporations’ carbon footprints, and artists’ careers in the South Korean film industry.
-
 <br/>
 
 # Curriculum Vitae
